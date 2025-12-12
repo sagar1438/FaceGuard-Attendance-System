@@ -12,143 +12,143 @@ ref = db.reference('Students')
 data = {
     "1":
         {
-            "name": "Deepa Pandey",
+            "name": "Sagar Panwar",
             "major": "AIML",
-            "starting_year": 2021,
+            "starting_year": 2022,
             "total_attendance": 0,
             "standing": "G",
             "year": 4,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "2":
         {
-            "name": "Rishabh Shah",
+            "name": "Anuj Sharma",
             "major": "AIML",
-            "starting_year": 2021,
+            "starting_year": 2022,
             "total_attendance": 0,
             "standing": "B",
             "year": 1,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "3":
         {
-            "name": "Naman Kotnala",
+            "name": "Prashant Purohit",
             "major": "Economics",
-            "starting_year": 2021,
+            "starting_year": 2023,
             "total_attendance": 12,
             "standing": "B",
             "year": 1,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "4":
         {
             "name": "Elon Musk",
             "major": "Economics",
-            "starting_year": 2021,
+            "starting_year": 2022,
             "total_attendance": 12,
             "standing": "B",
             "year": 1,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "5":
         {
-            "name": "Laxmi Pandey",
+            "name": "Ayush Rawat",
             "major": "Physics",
-            "starting_year": 2020,
+            "starting_year": 2023,
             "total_attendance": 7,
             "standing": "G",
             "year": 2,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "6":
         {
-            "name": "Mahi Shukla",
+            "name": "Tiwari ji",
             "major": "Physics",
             "starting_year": 2020,
             "total_attendance": 7,
             "standing": "G",
             "year": 2,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "7":
         {
-            "name": "Utkarsh Tiwari",
+            "name": "Utkarsh Ram",
             "major": "Physics",
-            "starting_year": 2020,
+            "starting_year": 2018,
             "total_attendance": 7,
             "standing": "G",
             "year": 2,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "9":
         {
-            "name": "Sanjay Bisht",
+            "name": "Sarthak Bisht",
             "major": "Physics",
-            "starting_year": 2020,
+            "starting_year": 2019,
             "total_attendance": 7,
             "standing": "G",
             "year": 2,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "10":
         {
-            "name": "Bhoomika Chauhan",
+            "name": "Ankur Chauhan",
             "major": "Physics",
             "starting_year": 2020,
             "total_attendance": 7,
             "standing": "G",
             "year": 2,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "11":
         {
-            "name": "Prashant Dimri",
+            "name": "Lakshay Dimri",
             "major": "Physics",
-            "starting_year": 2020,
+            "starting_year": 2022,
             "total_attendance": 7,
             "standing": "G",
             "year": 2,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "12":
         {
-            "name": "Naman Nagi",
+            "name": "Vikas Negi",
             "major": "Physics",
-            "starting_year": 2020,
+            "starting_year": 2024,
             "total_attendance": 7,
             "standing": "G",
             "year": 2,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "13":
         {
-            "name": "Sakshi Sharma",
+            "name": "Sakshi Goyal",
             "major": "Physics",
-            "starting_year": 2020,
+            "starting_year": 2022,
             "total_attendance": 7,
             "standing": "G",
             "year": 2,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "14":
         {
-            "name": "Devesh Phulara",
+            "name": "Dev Sharma",
             "major": "Physics",
-            "starting_year": 2020,
+            "starting_year": 2022,
             "total_attendance": 7,
             "standing": "G",
             "year": 2,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         },
     "15":
         {
-            "name": "Bhoomi Karnwal",
+            "name": "Bhoomika Rawat",
             "major": "Physics",
-            "starting_year": 2020,
+            "starting_year": 2025,
             "total_attendance": 7,
             "standing": "G",
             "year": 2,
-            "last_attendance_time": "2022-12-11 00:54:34"
+            "last_attendance_time": "2025-12-11 00:54:34"
         }
 }
 for key,value in data.items():
