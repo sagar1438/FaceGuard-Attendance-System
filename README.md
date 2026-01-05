@@ -11,7 +11,7 @@ Database Integration: Stores attendance records in a MySQL database for easy man
 Real-time Processing: Performs face recognition in real-time for quick and efficient attendance tracking.
 User-Friendly Interface: Provides a simple and intuitive interface for easy interaction and monitoring.
 # Installation:
-Clone the repository: git clone https://github.com/yourusername/FaceGuard.git
+Clone the repository: git clone https://github.com/sagar1438/FaceGuard-Attendance-System.git
 Install dependencies: pip install -r requirements.txt
 Set up MySQL database and update credentials in config.py
 Run the application: python faceguard.py
