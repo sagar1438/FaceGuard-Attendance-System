@@ -1,5 +1,5 @@
 # Project: FaceGuard - Facial Recognition Attendance System
-FaceMark is a Python-based facial recognition attendance system designed to automate the process of marking attendance in various settings such as classrooms, offices, and events. The system utilizes computer vision techniques to detect and recognize faces, enabling seamless and efficient attendance management.
+FaceMark is a Python-based facial recognition attendance system designed to automate the process of marking attendance in various settings such as classrooms, offices, and events. The system utilizes computer vision techniques to detect and recognize faces, enabling seamless and efficient attendance management. 
 
 # Overview:
 FaceGuard is a Python-based facial recognition attendance system designed to automate the attendance marking process. It uses computer vision techniques to detect and recognize faces, making attendance management efficient and convenient.
@@ -11,7 +11,7 @@ Database Integration: Stores attendance records in a MySQL database for easy man
 Real-time Processing: Performs face recognition in real-time for quick and efficient attendance tracking.
 User-Friendly Interface: Provides a simple and intuitive interface for easy interaction and monitoring.
 # Installation:
-Clone the repository: git clone https://github.com/yourusername/FaceGuard.git
+Clone the repository: git clone https://github.com/sagar1438/FaceGuard-Attendance-System.git
 Install dependencies: pip install -r requirements.txt
 Set up MySQL database and update credentials in config.py
 Run the application: python faceguard.py
